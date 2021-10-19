@@ -13,6 +13,10 @@ Meet David Barnacle, Your Coach for this Session
 <iframe src="https://players.brightcove.net/2985902027001/default_default/index.html?videoId=6273516783001" allowfullscreen allow="encrypted-media" width="300" height="150"></iframe>
 </div>
 
+[![Journal Entry](David_Barnacle.jpg)](https://learning.oracle.com/public_content/ohr/DL/Journal_to_period_close_P3__Module_1_Step_1.mp4 "Journal Entry")
+
+[![Test](https://res.cloudinary.com/marcomontalbano/image/upload/v1634640449/video_to_markdown/images/youtube--VeAK7Bv4F1o-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=VeAK7Bv4F1o "Test")
+
 # Key Activities: Journal Entry, Period Close, and Financial Reporting
 
 Before you get into the key activities of this business process, it is important to have a background of the General Ledger Application.
