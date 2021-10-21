@@ -12,7 +12,7 @@ Meet David Barnacle, Your Coach for this Session
 <div>
 <iframe src="https://players.brightcove.net/2985902027001/default_default/index.html?videoId=6273516783001" allowfullscreen allow="encrypted-media" width="300" height="150"></iframe>
 </div>
-</ br> </br>
+<br> <br>
 [![Journal Entry](journal_entry.png)](https://learning.oracle.com/public_content/ohr/DL/Journal_to_period_close_P3__Module_1_Step_1.mp4 "Journal Entry")
 
 
